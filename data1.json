@@ -1,0 +1,48 @@
+{
+  "left":{
+"photo":"images.jpg",
+"name":"Madireddy.Reethu",
+"email":"mreethu@gmail.com",
+"phone":"8179798436"
+},
+"education":[
+{
+  "course":"btech(cse)",
+  "college":[
+    "rcew",
+    "2015-2019",
+    "60%"
+  ]
+},
+  {
+    "course":"intermediate",
+    "college":[
+      "narayana",
+      "2013-2015",
+      "90%"
+    ]
+  },
+    {
+      "course":"ssc",
+      "college":[
+        "ssmes",
+        "2012-2013",
+        "80%"
+]
+}
+],
+"skills":[
+  {
+    "name":"operating systems",
+    "value":"windows,linux"
+  },
+  {
+    "name":"programming languages",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web development",
+    "value":"html,python"
+  }
+]
+}
